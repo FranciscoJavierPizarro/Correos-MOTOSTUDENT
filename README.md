@@ -28,4 +28,4 @@ CONFIGURACIÓN INICIAL PREVIA:
 GUÍA DE USO:
 -Realizar la configuración previa ya mencionada.
 -Ejecutar el ejecutable o el archivo correoDepartamentos.py
-De ahí en adelante la interfaz es muy intuitiva y explica todo
+-De ahí en adelante la interfaz es muy intuitiva y explica todo
